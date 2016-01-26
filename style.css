@@ -1,0 +1,13 @@
+
+div { 
+	border: purple 9px solid;
+	background: #FBC9D2;
+}
+
+.caja {
+	border: green 2px dotted;
+	text-align: center;
+	padding: 7px 1px; 
+	margin: 30px 25px 50px 80px;
+	background: white;
+}
